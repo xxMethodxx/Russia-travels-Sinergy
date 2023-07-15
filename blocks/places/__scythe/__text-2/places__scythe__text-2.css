@@ -1,3 +1,6 @@
 .places__scythe__text-2 {
     width: 484px;
+    margin: 0;
+    grid-column: 2/3;
+    grid-row: 3/4;
 }

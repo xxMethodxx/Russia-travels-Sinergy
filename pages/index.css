@@ -21,12 +21,18 @@
 
 @import url('../blocks/places/places.css');
 @import url('../blocks/places/__scythe/places__scythe.css');
-@import url('../blocks/places/__scythe/__image/places__scythe__image.css');
 @import url('../blocks/places/__scythe/__title/places__scythe__title.css');
 @import url('../blocks/places/__scythe/__website/places__scythe__website.css');
+@import url('../blocks/places/__scythe/__image/places__scythe__image.css');
 @import url('../blocks/places/__scythe/__text-1/places__scythe__text-1.css');
 @import url('../blocks/places/__scythe/__text-2/places__scythe__text-2.css');
 
+@import url('../blocks/places/__kola/places__kola.css');
+@import url('../blocks/places/__kola/__title/places__kola__title.css');
+@import url('../blocks/places/__kola/__website/places__kola__website.css');
+@import url('../blocks/places/__kola/__image/places__kola__image.css');
+@import url('../blocks/places/__kola/__text-1/places__kola__text-1.css');
+@import url('../blocks/places/__kola/__text-2/places__kola__text-2.css');
 
 
 
