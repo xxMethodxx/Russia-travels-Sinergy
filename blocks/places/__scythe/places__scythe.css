@@ -1,0 +1,7 @@
+.places__scythe {
+    width: 984px;
+    height: 660px;
+    flex-shrink: 0;
+    color: white;
+    display: block;
+}

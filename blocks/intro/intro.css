@@ -1,0 +1,7 @@
+.intro {
+    color: white;
+    width: 690px;
+    /* height: 429px; */
+    flex-shrink: 0;
+    margin: 92px 442px 0 148px;
+}

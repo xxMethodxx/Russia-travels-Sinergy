@@ -1,0 +1,12 @@
+.page {
+    width: 1280px;
+    min-width: 320px;
+    /* margin: 0 auto; */
+}
+
+.body_content {
+    background-color: #2A2C2F;
+    width: 1280px;
+    /* height: 6785px; */
+    margin: 0 auto;
+}
