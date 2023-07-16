@@ -2,7 +2,6 @@
     color: white;
     font-family: Inter;
     width: 560px;
-    height: 152px;
     flex-shrink: 0;
     text-align: center;
     font-size: 72px;
@@ -11,5 +10,4 @@
     line-height: 76px;
     text-decoration: none;
     opacity: 100%;
-    /* position: absolute; */
 }
