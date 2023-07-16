@@ -20,7 +20,6 @@
 @import url('../blocks/photo-grid/photo-grid.css');
 
 @import url('../blocks/places/places.css');
-
 @import url('../blocks/places/__scythe/places__scythe.css');
 @import url('../blocks/places/__scythe/__title/places__scythe__title.css');
 @import url('../blocks/places/__scythe/__website/places__scythe__website.css');
@@ -69,11 +68,15 @@
 @import url('../blocks/places/__karelia/__image/places__karelia__image.css');
 @import url('../blocks/places/__karelia/__text/places__karelia__text.css');
 
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/__image/cover__image.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
 
-
-
-
-
-
-
-
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__maps/footer__maps.css');
+@import url('../blocks/footer/__weather/footer__weather.css');
+@import url('../blocks/footer/__schedule/footer__schedule.css');
+@import url('../blocks/footer/__calendar/footer__calendar.css');
+@import url('../blocks/footer/__trips/footer__trips.css');
+@import url('../blocks/footer/__signature/footer__signature.css');
