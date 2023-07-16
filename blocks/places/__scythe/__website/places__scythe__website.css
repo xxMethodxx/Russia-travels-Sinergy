@@ -1,6 +1,10 @@
-.places__scythe_website {
+.places__scythe__website {
     width: 456px;
-    height: 46px;
+    /* height: 46px; */
     flex-shrink: 0;
-    margin: 0;
+    margin: 0 0 48px 0;
+    text-align: bottom;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }

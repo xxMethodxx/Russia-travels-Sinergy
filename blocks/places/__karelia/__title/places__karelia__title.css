@@ -1,0 +1,9 @@
+.places__karelia__title {
+    width: 460px;
+    height: 76px;
+    flex-shrink: 0;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 76px;
+}

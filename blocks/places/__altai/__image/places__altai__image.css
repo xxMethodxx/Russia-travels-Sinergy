@@ -1,0 +1,7 @@
+.places__altai__image {
+    width: 460px;
+    height: 460px;
+    grid-row: 2/4;
+    grid-column: 1/2;
+    margin: 48px 0 0 0;
+}

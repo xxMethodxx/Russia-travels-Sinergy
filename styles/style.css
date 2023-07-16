@@ -1,7 +1,12 @@
 .page {
     width: 1280px;
+    /* height: 6875px; */
     min-width: 320px;
-    /* margin: 0 auto; */
+    /* margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold; */
 }
 
 .body_content {
@@ -9,4 +14,18 @@
     width: 1280px;
     /* height: 6785px; */
     margin: 0 auto;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }

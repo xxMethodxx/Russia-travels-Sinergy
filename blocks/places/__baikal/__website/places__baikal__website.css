@@ -1,0 +1,6 @@
+.places__baikal__website {
+    display: flex;
+    height: 152px;
+    flex-direction: column;
+    justify-content: flex-end;
+}

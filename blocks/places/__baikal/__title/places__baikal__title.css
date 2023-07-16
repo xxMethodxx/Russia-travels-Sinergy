@@ -1,0 +1,9 @@
+.places__baikal__title {
+    width: 460px;
+    height: 152px;
+    flex-shrink: 0;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 76px;
+}

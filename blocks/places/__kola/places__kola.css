@@ -1,11 +1,11 @@
 .places__kola {
     width: 984px;
-    height: 660px;
-    flex-shrink: 0;
-    margin: 92px auto 0 auto;
+    height: 584px;
     color: white;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+    align-items: start;
     margin: 0;
+    font-family: Inter;   
 }
